@@ -1,0 +1,53 @@
+{
+  "appKeys": {},
+  "capabilities": [
+    "configurable"
+  ],
+  "companyName": "Pop",
+  "longName": "Paper-Rock-Scissors",
+  "resources": {
+    "media": [
+      {
+        "file": "images/logo_splash.png",
+        "name": "IMAGE_LOGO_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/tile_splash.png",
+        "name": "IMAGE_TILE_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "fonts/UbuntuMono-Regular.ttf",
+        "name": "MONO_FONT_14",
+        "type": "font"
+      },
+      {
+        "file": "images/paperi.png",
+        "name": "PAPER_PAPER",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/kivi.png",
+        "name": "ROCK_ROCK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/sakset.png",
+        "name": "SCISSORS_SCISSORS",
+        "type": "bitmap"
+      }
+    ]
+  },
+  "sdkVersion": "3",
+  "shortName": "PaperRockScissors",
+  "targetPlatforms": [
+    "aplite"
+  ],
+  "uuid": "133215f0-cf20-4c05-997b-3c9be5a64e5b",
+  "versionCode": 1,
+  "versionLabel": "0.4",
+  "watchapp": {
+    "watchface": false
+  }
+}

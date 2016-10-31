@@ -3,7 +3,7 @@
 Paper Rock Scissors
 ------------------------------------------------------------------------------
 
- Play Paper Rock Scissors against you watch. Man vs. machine!
+ Play Paper Rock Scissors against your watch. Man vs. machine!
 
 
 Installation

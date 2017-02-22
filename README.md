@@ -1,9 +1,10 @@
-# README #
 
 Paper Rock Scissors
 ------------------------------------------------------------------------------
 
  Play Paper Rock Scissors against your watch. Man vs. machine!
+ 
+ https://developer.pebble.com/
 
 
 Installation

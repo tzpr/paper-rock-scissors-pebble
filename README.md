@@ -2,10 +2,13 @@
 Paper Rock Scissors
 ------------------------------------------------------------------------------
 
- Play Paper Rock Scissors against your watch. Man vs. machine!
+ Play Paper Rock Scissors against your watch.
  
  https://developer.pebble.com/
+ 
 
+Screens
+------------------------------------------------------------------------------
 
 Installation
 ------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+
+# Ignore build generated files
+build
+
+# Ignore waf lock file
+.lock-waf*
+
+.idea/
+LICENSE
+doc.html
+resources/fonts/
+src/js/clock/
+src/js/lib/
+src/js/loader.js
+src/js/main.js
+src/js/platform/
+src/js/settings/
+src/js/simply/
+src/js/smartpackage/
+src/js/timeline/
+src/js/ui/
+src/js/vendor/
+src/js/wakeup/
+src/main.c
+src/simply/
+src/util/
+waftools/
+wscript
